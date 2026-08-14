@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá, eu sou Tallys!
 
-<!--
-**tallysrafael-beep/tallysrafael-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+💻 Gosto de desenvolver projetos, jogos e sistemas, explorando diferentes tecnologias e ferramentas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+### 💻 Programação
+
+* 🐍 **Python**
+* 🌐 **HTML**
+* 🎨 **CSS**
+* ⚡ **JavaScript**
+* 🗄️ **MySQL**
+
+### 🛠️ Ferramentas e Tecnologias
+
+* 🐧 **Linux**
+* 🐳 **Docker**
+* 🖌️ **GIMP**
+* 💻 **Visual Studio Code**
+* 🐙 **GitHub**
+
+## 📚 Atualmente estudando
+
+* Desenvolvimento de aplicações com **Python**
+* Desenvolvimento Web
+* Banco de dados com **MySQL**
+* Programação Orientada a Objetos
+* Desenvolvimento de jogos
+
+## 🎮 Projetos
+
+Tenho projetos envolvendo programação, desenvolvimento de jogos e aplicações, buscando sempre aprender novas tecnologias e melhorar minhas habilidades.
+
+## 🧰 Tecnologias
+
+```text
+Python       ████████████████████
+HTML         █████████████████
+CSS          ████████████████
+JavaScript   ██████████████
+MySQL        ██████████████
+Linux        ████████████
+Docker       ███████████
+GIMP         █████████
+VS Code      █████████████████
+GitHub       ███████████████████
+```
+
+## 📫 Onde me encontrar
+
+🐙 **GitHub:** [tallysrafael-beep](https://github.com/tallysrafael-beep)
